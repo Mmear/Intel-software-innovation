@@ -1,0 +1,23 @@
+一个尝试openpose精度的UP
+https://space.bilibili.com/8720154/#/ 
+
+加工开源图像人体动作识别
+https://github.com/miu200521358
+https://github.com/errno-mmd
+
+OPENPOSE开源
+https://github.com/CMU-Perceptual-Computing-Lab/openpose
+https://github.com/una-dinosauria/3d-pose-baseline
+
+图像光谱化处理
+https://github.com/iro-cp/FCRN-DepthPrediction
+
+人体模型精度和立体深度处理
+http://www0.cs.ucl.ac.uk/staff/D.Tome/papers/LiftingFromTheDeep.html
+https://github.com/DenisTome/Lifting-from-the-Deep-release
+
+人体姿势预测
+https://blog.csdn.net/u013110060/article/details/78988962
+
+舞蹈动作三大纠正点
+肢体  节奏  细节（幅度，手指，表情）
